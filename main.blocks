@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="/9-OtOx?3E~=`P@zWzZ8" x="-72" y="37"><statement name="HANDLER"><block type="controls_repeat_ext" id=";CCM)A]~C#[T:E4@#R#8"><value name="TIMES"><shadow type="math_whole_number" id="#{`%cM~#{AiV$se35v?+"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="pJ}|C-?X_=!1y/hkGGLK"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . # . # .
+        `</field><next><block type="device_pause" id="bkpt}D244CtGR69d(?Z|"><value name="pause"><shadow type="timePicker" id="}4?:T*6[.3B_TT7U=,Vd"><field name="ms">500</field></shadow></value><next><block type="device_show_leds" id="bC7f!!!l:^5mQ:LzcqDP"><field name="LEDS">`
+        . . # . . 
+        # # # # . 
+        . . # . # 
+        . # # . . 
+        # . . # .
+        `</field><next><block type="device_pause" id="!iBK=}o0knQ0LnxwX4vL"><value name="pause"><shadow type="timePicker" id="U-otI$c){gP3)/:9NX=s"><field name="ms">500</field></shadow></value></block></next></block></next></block></next></block></statement></block></statement></block></xml>
